@@ -1,1 +1,4 @@
 # MiniDump-GO
+
+
+Lsass minidump.
